@@ -1333,7 +1333,7 @@ export const articles = {
       name: "Lake Turkana: Status, challenges, and opportunities for collaborative research",
       year: 2022,
       authors:
-        "Kevin Obiero a, Mulugeta Wakjira b, Natasha Gownaris c, John Malala d, James Last Keyombe d, Migeni Z. Ajode e, Stephanie Smith e, Theodore Lawrence e f, Erick Ogello g, Abebe Getahun h, Jeppe Kolding i",
+        "Kevin Obiero a,  Mulugeta Wakjira b,  Natasha Gownaris c,  John Malala d,  James Last Keyombe d,  Migeni Z. Ajode e,  Stephanie Smith e,  Theodore Lawrence e f,  Erick Ogello g,  Abebe Getahun h,  Jeppe Kolding i",
       link: "https://doi.org/10.1016/j.jglr.2022.10.007",
       author_email: "kobiero@kmfri.go.ke",
     },
