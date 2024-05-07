@@ -39,6 +39,7 @@ function LakeSampleArticles({ currentItems, title }) {
           link={article.link}
           year={article.year}
           title={article.name}
+          authors={article.authors}
         />
       ))}
     </div>
