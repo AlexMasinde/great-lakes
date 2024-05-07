@@ -10,7 +10,7 @@ export default function HomePageHeader() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col flex-1 justify-center">
           <div className="z-10 border-l-4 border-[#ffcc00] pl-6 ">
             <h1 className="text-white text-md font-light md:text-6xl">
-              SEVEN GREAT LAKES. ELEVEN COUNTRIES. ONE INFORMATION SYSTEM.
+              SEVEN GREAT LAKES. TEN COUNTRIES. ONE INFORMATION SYSTEM.
             </h1>
           </div>
           <div className="z-10 pl-6 mt-3 md:mt-7">
