@@ -36,7 +36,7 @@ export default function NavBar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <a href="/" className="text-white md:text-xl font-light">
-              Hello World
+              African Lakes
             </a>
           </div>
           <div
