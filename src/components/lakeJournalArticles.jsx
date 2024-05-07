@@ -45,10 +45,10 @@ export default function LakeJournalArticles({ slug }) {
       <div>
         <div>
           <div className="my-4 px-2">
-            <p className="font-light">Search Articles</p>
+            {/*<p className="font-semibold">Search Publications</p>*/}
           </div>
-          <div className="flex w-full ">
-            <div className="flex-1 pr-4">
+          <div className="flex md:flex-row flex-col w-full ">
+            <div className="md:flex-1 md:pr-4">
               <input
                   type="text"
                   placeholder="Search by title..."
@@ -58,7 +58,7 @@ export default function LakeJournalArticles({ slug }) {
 
               />
             </div>
-            <div className="flex-1 pl-4">
+            <div className="md:flex-1 md:pl-4">
               <input
                   type="text"
                   placeholder="Search by author..."

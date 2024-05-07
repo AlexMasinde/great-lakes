@@ -1579,16 +1579,6 @@ export const articles = {
   ],
   albert: [
     {
-      name: "Limitations for informed decision making and better management of the transboundary Lake Albert fisheries resources",
-      year: "2023",
-      authors:
-        "Nakiyende, H., Basooma, A., Nyeko., I. J., Okello, W., Rugadya, R.,  Albrecht d, C., Lawrence, T. & Van, M. Steenberge g, Stephanie Smith f, Nshombo Muderhwa i, Joseph Matunguru j k, Mbalassa Mulongaibalu l, Migeni Z. Ajode f",
-      link: "https://doi.org/10.1016/j.jglr.2023.02.007",
-      author_email: "nakiyende@yahoo.ie",
-      second_author_email: "",
-      keywords: "",
-    },
-    {
       name: "Chapter 1 - History and formation of African Lakes",
       year: "2023",
       authors: "Ali, M.M. and Abd Ellah, R.G.",
@@ -3047,14 +3037,7 @@ export const articles = {
       author_email: "auramulanda@yahoo.com",
       second_author_email: "aura.mulanda@gmail.com",
     },
-    {
-      name: "Response of fish stocks in Lake Victoria to enforcement of the ban on illegal fishing: Are there lessons for management?",
-      year: 2023,
-      authors:
-        "Chrispine Sangara Nyamweya a, Vianny Natugonza b, Benedicto Boniphace Kashindye c, Richard Mangeni-Sande d, Esther Kagoya d, Veronica Mpomwenda d, Venny Mziri a, Mboni Elison c, Enock Mlaponi c, Collins Ongore a, Amina Makori e, Sophia S. Shaban c, Christopher Mulanda Aura a, Robert Kayanda f, Anthony Taabu-Munyaho f, James Njiru e, Zachary Ogari g, Roland Proud h, Andrew S. Brierley h",
-      link: "https://doi.org/10.1016/j.jglr.2023.01.001",
-      author_email: "sanychris@yahoo.com",
-    },
+
     {
       name: "Post-harvest interventions in small-scale fisheries: a boon or bane to food and nutritional security in Kenya?",
       year: 2019,
@@ -3079,15 +3062,7 @@ export const articles = {
       link: "https://doi.org/10.1111/lre.12413",
       author_email: "safeenamusa@yahoo.com",
     },
-    {
-      name: "How the pre and post COVID-19 era have shaped system understanding of the socioeconomic impact of small-scale inland fisheries",
-      year: 2023,
-      authors:
-        "Christopher Mulanda Aura a, Fonda Jane Awuor a, Hezron Awandu a, Horace Owiti a, Safina Musa b, Winnie Owoko a, James M. Njiru c",
-      link: "https://doi.org/10.1016/j.ssaho.2022.100377",
-      author_email: "auramulanda@yahoo.com",
-      second_author_email: "aura.mulanda@gmail.com",
-    },
+
     {
       name: "Chapter 16 - Microbial dynamics within Lake Victoria Basin in relation to human activities",
       year: 2023,
@@ -3286,16 +3261,7 @@ export const articles = {
       author_email: "fmasese@uoeld.ac.ke",
       second_author_email: "f.masese@gmail.com",
     },
-    {
-      name: "Response of fish stocks in Lake Victoria to enforcement of the ban on illegal fishing: Are there lessons for management?",
-      year: 2023,
-      authors:
-        "Nyamweya CS,Natugonza V,Kashindye BB,Mangeni-Sande R,Kagoya E,Mpomwenda V,Mziri V,Elison M,Mlaponi E,Ongore C,Makori A,Shaban SS,Aura CM,Kayanda R,Taabu-Munyaho A,Njiru J,Ogari Z,Proud R,Brierley AS",
-      link: "https://doi.org/10.1016/j.jglr.2023.01.001",
-      keywords:
-        "Fishery regulations, Biomass, Illegal fishing gear, Nile perch, Size structure, Strict enforcement",
-      author_email: "sanychris@yahoo.com",
-    },
+
     {
       name: "Diversity of digenean trematode larvae in snails from Lake Victoria, Kenya: First reports and bioindicative aspects",
       year: 2020,
@@ -5239,7 +5205,7 @@ export const articles = {
       name: "A review of light fishing on Lake Albert, Uganda: Implications for a multi-species artisanal fishery",
       year: 2023,
       authors:
-        "Nakiyende H,Chapman L,Basooma A,Mbabazi D,Odong R,Nduwayesu E,Bassa S,Mugeni B,Nkalubo W,Mulowoza A,Mangeni RS,Taabu-Munyaho A,Efitre J",
+        "Nakiyende H, Chapman L, Basooma A, Mbabazi D,Odong R, Nduwayesu E, Bassa S,Mugeni B, Nkalubo W, Mulowoza A,Mangeni RS, Taabu-Munyaho A, Efitre J",
       link: "https://doi.org/10.1016/j.fishres.2022.106535",
       keywords:
         "Brycinus nurse, Engraulicypris bredoi, Kerosene lamps, Small pelagic species, Solar lights, Transboundary fisheries",
