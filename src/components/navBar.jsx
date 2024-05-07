@@ -47,7 +47,7 @@ export default function NavBar() {
               onClick={toggleDropdown}
               className="text-white hover:text-gray-400 px-4 py-2 uppercase font-extralight"
             >
-              Explore
+              Lakes
             </button>
             {showDropdown && (
               <div className="absolute mt-3 w-56 origin-top-right rounded-b-md shadow-lg bg-black bg-opacity-80">

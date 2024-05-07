@@ -21,7 +21,7 @@ export const tabs = [
   },
   {
     name: "gallery",
-    title: "Photo/Video Gallery",
+    title: "Photos/Videos",
     selected: false,
   }
 ];

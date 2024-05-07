@@ -27,7 +27,7 @@ export default function MobileMenu({
         onClick={toggleDropdown}
         className=" hover:text-gray-400 px-3 py-2 uppercase font-extralight cursor-pointer border-l-2 border-[#ffcc00]"
       >
-        Explore
+        Lakes
       </p>
       {showDropdown && (
         <div className="w-56  bg-white ">
