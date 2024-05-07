@@ -3,12 +3,15 @@ import LakeArticleItem from "./lakeArticleItem";
 import shortid from "shortid";
 import { articles } from "@/utils/articles";
 
-const ITEMS_PER_PAGE = 20;
+const ITEMS_PER_PAGE = 10;
 
 export default function LakeJournalArticles({ slug }) {
   const [currentPage, setCurrentPage] = useState(1);
   const articleList = articles[slug];
-  const requiresPagination = articleList.length > 20;
+  const sortedArticles = articleList.sort((a, b) => b.year - a.year)
+  const requiresPagination = articleList.length > 10;
+
+
 
   const handlePageChange = (page) => {
     setCurrentPage(page);
@@ -17,8 +20,10 @@ export default function LakeJournalArticles({ slug }) {
   const indexOfLastItem = currentPage * ITEMS_PER_PAGE;
   const indexOfFirstItem = indexOfLastItem - ITEMS_PER_PAGE;
   const currentItems = requiresPagination
-    ? articleList.slice(indexOfFirstItem, indexOfLastItem)
-    : articleList;
+    ? sortedArticles.slice(indexOfFirstItem, indexOfLastItem)
+    : sortedArticles;
+
+
 
   return (
     <div>

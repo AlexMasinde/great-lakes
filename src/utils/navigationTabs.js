@@ -10,13 +10,18 @@ export const tabs = [
     selected: false,
   },
   {
-    name: "gallery",
-    title: "Photo/Video Gallery",
+    name: "data",
+    title: "Data",
     selected: false,
   },
   {
-    name: "culture",
-    title: "Cultural Significance",
+    name: "projects",
+    title: "Projects",
     selected: false,
   },
+  {
+    name: "gallery",
+    title: "Photo/Video Gallery",
+    selected: false,
+  }
 ];
